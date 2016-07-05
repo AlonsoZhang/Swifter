@@ -13,7 +13,9 @@
 作者王巍是[Objc 中国](http://objccn.io/)的组织者和管理者。
 
 ###1. Swift 新元素
+
 [柯里化 (Currying)](https://github.com/AlonsoZhang/Swifter/blob/master/currying.md)
 
+[将 protocol 的方法声明为 mutating](https://github.com/AlonsoZhang/Swifter/blob/master/protocol-mutation.md)
 
 
