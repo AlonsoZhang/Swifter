@@ -23,7 +23,11 @@ swapMe2(&a, b: &b)
 (a, b)
 
 let rect = CGRectMake(0, 0, 100, 100)
-let (small, large) = rect.divide(20, fromEdge: .MinXEdge)
+
+
+let (small, large) = rect.divide(30, fromEdge: .MinXEdge)
+
+//let (small, large) = rect.divide(20, fromEdge: .MinXEdge)
 
 small
 large

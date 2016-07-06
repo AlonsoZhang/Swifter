@@ -18,4 +18,7 @@
 
 [将 protocol 的方法声明为 mutating](https://github.com/AlonsoZhang/Swifter/blob/master/protocol-mutation.md)
 
-[Sequence](https://github.com/AlonsoZhang/Swifter/blob/master/sequence.md)
+[Sequence](https://github.com/AlonsoZhang/Swifter/blob/master/sequence.md)☆
+
+[多元组 (Tuple)](https://github.com/AlonsoZhang/Swifter/blob/master/tuple.md)
+
