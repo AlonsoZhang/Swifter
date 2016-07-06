@@ -8,6 +8,8 @@
 
 [Swift 学习指引](http://www.swiftguide.cn/)，有官方文档的中文版，我自己也打印下来，随时翻阅。本书的作用也相当于官方文档的参考和补充。
 
+[Swift官方博客](https://developer.apple.com/swift/blog/)
+
 在 github 上的 [issue 界面](https://github.com/swifter-tips/Public-Issues/issues)以及 [Release Note](https://github.com/swifter-tips/Public-Issues/wiki/Release-Note)。
 
 作者王巍是[Objc 中国](http://objccn.io/)的组织者和管理者。
@@ -22,3 +24,4 @@
 
 [多元组 (Tuple)](https://github.com/AlonsoZhang/Swifter/blob/master/tuple.md)
 
+[@autoclosure 和 ??](https://github.com/AlonsoZhang/Swifter/blob/master/autoclosure.md)
