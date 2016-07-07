@@ -16,6 +16,15 @@ func +(left: Vector2D, right: Vector2D) -> Vector2D {
 }
 
 let v4 = v1 + v2
+
+
+func -(left: Vector2D, right: Vector2D) -> Vector2D {
+    return Vector2D(x: left.x - right.x, y: left.y - right.y)
+}
+
+let v5 = v1 - v2
+
+
 // v4 为 {x 3.0, y 7.0}
 
 infix operator +* {
