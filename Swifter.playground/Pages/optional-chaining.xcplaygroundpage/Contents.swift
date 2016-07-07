@@ -19,10 +19,13 @@ class Child {
 
 let xiaoming = Child()
 
+//let aaa = xiaoming.pet?.toy?.name
+
 let toyName = xiaoming.pet?.toy?.name
 
 if let toyName = xiaoming.pet?.toy?.name {
     // 太好了，小明既有宠物，而且宠物还正好有个玩具
+    print("1")
 }
 
 extension Toy {
