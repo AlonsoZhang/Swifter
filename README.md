@@ -31,3 +31,5 @@
 [操作符](https://github.com/AlonsoZhang/Swifter/blob/master/operator.md)
 
 [func 的参数修饰](https://github.com/AlonsoZhang/Swifter/blob/master/func-params.md)
+
+[字面量转换](https://github.com/AlonsoZhang/Swifter/blob/master/literal.md)☆
