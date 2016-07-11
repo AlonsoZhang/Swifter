@@ -35,3 +35,5 @@
 [字面量转换](https://github.com/AlonsoZhang/Swifter/blob/master/literal.md)☆
 
 [下标 ](https://github.com/AlonsoZhang/Swifter/blob/master/subscript.md)☆
+
+[方法嵌套 ](https://github.com/AlonsoZhang/Swifter/blob/master/nested-func.md)☆
