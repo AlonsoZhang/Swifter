@@ -39,3 +39,5 @@
 [方法嵌套](https://github.com/AlonsoZhang/Swifter/blob/master/nested-func.md)☆
 
 [命名空间](https://github.com/AlonsoZhang/Swifter/blob/master/namespace.md)
+
+[Any 和 AnyObject](https://github.com/AlonsoZhang/Swifter/blob/master/any-anyobject.md)
