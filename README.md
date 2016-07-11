@@ -41,3 +41,6 @@
 [命名空间](https://github.com/AlonsoZhang/Swifter/blob/master/article/namespace.md)
 
 [Any 和 AnyObject](https://github.com/AlonsoZhang/Swifter/blob/master/article/any-anyobject.md)
+
+[typealias 和泛型接口](https://github.com/AlonsoZhang/Swifter/blob/master/article/typealias.md)
+
