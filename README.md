@@ -44,3 +44,4 @@
 
 [typealias 和泛型接口](https://github.com/AlonsoZhang/Swifter/blob/master/article/typealias.md)
 
+[可变参数函数](https://github.com/AlonsoZhang/Swifter/blob/master/article/variadic.md)
