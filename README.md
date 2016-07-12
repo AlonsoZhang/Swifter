@@ -47,3 +47,5 @@
 [可变参数函数](https://github.com/AlonsoZhang/Swifter/blob/master/article/variadic.md)
 
 [初始化方法顺序](https://github.com/AlonsoZhang/Swifter/blob/master/article/init.md)
+
+[Designated，Convenience 和 Required](https://github.com/AlonsoZhang/Swifter/blob/master/article/init-keywords.md)☆
