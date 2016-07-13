@@ -8,7 +8,8 @@ switch password {
     default:        print("验证失败")
 }
 
-let num: Int? = nil
+var num: Int? = nil
+num = 1
 switch num {
     case nil: print("没值")
     default:  print("\(num!)")
