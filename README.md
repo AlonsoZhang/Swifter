@@ -49,3 +49,6 @@
 [初始化方法顺序](https://github.com/AlonsoZhang/Swifter/blob/master/article/init.md)
 
 [Designated，Convenience 和 Required](https://github.com/AlonsoZhang/Swifter/blob/master/article/init-keywords.md)☆
+
+[初始化返回 nil](https://github.com/AlonsoZhang/Swifter/blob/master/article/init-nil.md)
+
