@@ -53,3 +53,5 @@
 [初始化返回 nil](https://github.com/AlonsoZhang/Swifter/blob/master/article/init-nil.md)☆
 
 [protocol 组合](https://github.com/AlonsoZhang/Swifter/blob/master/article/protocol-composition.md)
+
+[static 和 class](https://github.com/AlonsoZhang/Swifter/blob/master/article/static-class.md)☆
