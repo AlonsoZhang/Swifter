@@ -28,6 +28,7 @@ func printThem(pet: Pet, _ cat: Cat) {
 
 printThem(Dog(), Cat())
 
+
 // 输出：
 // Pet
 // Meow
