@@ -71,3 +71,5 @@
 [接口和类方法中的 Self](https://github.com/AlonsoZhang/Swifter/blob/master/article/use-self.md)☆
 
 [动态类型和多方法](https://github.com/AlonsoZhang/Swifter/blob/master/article/multi-method.md)
+
+[属性观察](https://github.com/AlonsoZhang/Swifter/blob/master/article/property-observer.md)

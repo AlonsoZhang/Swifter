@@ -26,7 +26,7 @@ class MyClass {
 }
 
 let foo = MyClass()
-foo.date = foo.date.dateByAddingTimeInterval(10086)
+foo.date = foo.date.dateByAddingTimeInterval(60)
 
 // 输出
 // 即将将日期从 2014-08-23 12:47:36 +0000 设定至 2014-08-23 15:35:42 +0000
