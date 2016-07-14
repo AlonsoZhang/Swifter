@@ -34,6 +34,7 @@ func setupViewControllers(vcTypes: [AnyClass]) {
             print(vc)
         }
     }
+    
 }
 
 setupViewControllers(usingVCTypes)

@@ -67,3 +67,5 @@
 [... 和 ..](https://github.com/AlonsoZhang/Swifter/blob/master/article/range.md)
 
 [AnyClass，元类型和 .self](https://github.com/AlonsoZhang/Swifter/blob/master/article/self-anyclass.md)
+
+[接口和类方法中的 Self](https://github.com/AlonsoZhang/Swifter/blob/master/article/use-self.md)☆
