@@ -33,7 +33,6 @@ func setupViewControllers(vcTypes: [AnyClass]) {
             let vc = (vcType as! UIViewController.Type).init()
             print(vc)
         }
-        
     }
 }
 

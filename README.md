@@ -65,3 +65,5 @@
 [模式匹配](https://github.com/AlonsoZhang/Swifter/blob/master/article/pattern-match.md)
 
 [... 和 ..](https://github.com/AlonsoZhang/Swifter/blob/master/article/range.md)
+
+[AnyClass，元类型和 .self](https://github.com/AlonsoZhang/Swifter/blob/master/article/self-anyclass.md)
