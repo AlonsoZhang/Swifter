@@ -73,3 +73,5 @@
 [动态类型和多方法](https://github.com/AlonsoZhang/Swifter/blob/master/article/multi-method.md)
 
 [属性观察](https://github.com/AlonsoZhang/Swifter/blob/master/article/property-observer.md)
+
+[final](https://github.com/AlonsoZhang/Swifter/blob/master/article/final.md)
