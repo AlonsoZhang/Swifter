@@ -74,4 +74,7 @@
 
 [属性观察](https://github.com/AlonsoZhang/Swifter/blob/master/article/property-observer.md)
 
-[final](https://github.com/AlonsoZhang/Swifter/blob/master/article/final.md)
+[final](https://github.com/AlonsoZhang/Swifter/blob/master/article/final.md)☆
+
+[lazy 修饰符和 lazy 方法](https://github.com/AlonsoZhang/Swifter/blob/master/article/lazy.md)
+
