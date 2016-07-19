@@ -85,3 +85,5 @@
 [多重 Optional](https://github.com/AlonsoZhang/Swifter/blob/master/article/multiple-optional.md)
 
 [Optional Map](https://github.com/AlonsoZhang/Swifter/blob/master/article/optional-map.md)
+
+[Protocol Extension](https://github.com/AlonsoZhang/Swifter/blob/master/article/protocol-extension.md)☆
