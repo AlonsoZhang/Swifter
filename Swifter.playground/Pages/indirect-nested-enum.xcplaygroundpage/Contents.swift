@@ -15,6 +15,8 @@ import Foundation
 //    next: Node(value: 2,
 //        next: Node(value: 3,
 //            next: Node(value: 4, next: nil))))
+//
+//list
 
 
 indirect enum LinkedList<Element: Comparable> {

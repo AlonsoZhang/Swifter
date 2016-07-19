@@ -89,3 +89,5 @@
 [Protocol Extension](https://github.com/AlonsoZhang/Swifter/blob/master/article/protocol-extension.md)☆
 
 [where 和模式匹配](https://github.com/AlonsoZhang/Swifter/blob/master/article/where.md)
+
+[indirect 和嵌套 enum](https://github.com/AlonsoZhang/Swifter/blob/master/article/indirect-nested-enum.md)☆
