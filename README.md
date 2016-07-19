@@ -87,3 +87,5 @@
 [Optional Map](https://github.com/AlonsoZhang/Swifter/blob/master/article/optional-map.md)
 
 [Protocol Extension](https://github.com/AlonsoZhang/Swifter/blob/master/article/protocol-extension.md)☆
+
+[where 和模式匹配](https://github.com/AlonsoZhang/Swifter/blob/master/article/where.md)
