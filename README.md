@@ -91,3 +91,7 @@
 [where 和模式匹配](https://github.com/AlonsoZhang/Swifter/blob/master/article/where.md)
 
 [indirect 和嵌套 enum](https://github.com/AlonsoZhang/Swifter/blob/master/article/indirect-nested-enum.md)☆
+
+###2. 从 Objective-C/C 到 Swift
+
+[Selector](https://github.com/AlonsoZhang/Swifter/blob/master/article/selector.md)☆

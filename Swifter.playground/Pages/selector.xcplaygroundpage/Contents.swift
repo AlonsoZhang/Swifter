@@ -29,7 +29,6 @@ class MyObject: NSObject {
         return [someMethod, anotherMethod, method]
     }
     
-    
     func commonFunc() {
         
     }
