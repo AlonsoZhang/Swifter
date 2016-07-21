@@ -95,3 +95,5 @@
 ###2. 从 Objective-C/C 到 Swift
 
 [Selector](https://github.com/AlonsoZhang/Swifter/blob/master/article/selector.md)☆
+
+[实例方法的动态调用](https://github.com/AlonsoZhang/Swifter/blob/master/article/func-dispatch.md)
