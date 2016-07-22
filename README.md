@@ -99,3 +99,5 @@
 [实例方法的动态调用](https://github.com/AlonsoZhang/Swifter/blob/master/article/func-dispatch.md)
 
 [单例](https://github.com/AlonsoZhang/Swifter/blob/master/article/singleton.md)
+
+[条件编译](https://github.com/AlonsoZhang/Swifter/blob/master/article/condition-compile.md)
