@@ -105,3 +105,5 @@
 [编译标记](https://github.com/AlonsoZhang/Swifter/blob/master/article/param-mark.md)
 
 [@UIApplicationMain](https://github.com/AlonsoZhang/Swifter/blob/master/article/uiapplicationmain.md)
+
+[@objc 和 dynamic](https://github.com/AlonsoZhang/Swifter/blob/master/article/objc-dynamic.md)
