@@ -107,3 +107,5 @@
 [@UIApplicationMain](https://github.com/AlonsoZhang/Swifter/blob/master/article/uiapplicationmain.md)
 
 [@objc 和 dynamic](https://github.com/AlonsoZhang/Swifter/blob/master/article/objc-dynamic.md)
+
+[可选接口和接口扩展](https://github.com/AlonsoZhang/Swifter/blob/master/article/objc-protocol.md)☆
