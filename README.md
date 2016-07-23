@@ -103,3 +103,5 @@
 [条件编译](https://github.com/AlonsoZhang/Swifter/blob/master/article/condition-compile.md)
 
 [编译标记](https://github.com/AlonsoZhang/Swifter/blob/master/article/param-mark.md)
+
+[@UIApplicationMain](https://github.com/AlonsoZhang/Swifter/blob/master/article/uiapplicationmain.md)
