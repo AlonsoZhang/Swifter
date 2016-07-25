@@ -113,3 +113,5 @@
 [内存管理，weak 和 unowned](https://github.com/AlonsoZhang/Swifter/blob/master/article/retain-cycle.md)☆
 
 [@autoreleasepool](https://github.com/AlonsoZhang/Swifter/blob/master/article/autoreleasepool.md)
+
+[值类型和引用类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/value-reference.md)
