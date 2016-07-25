@@ -115,3 +115,5 @@
 [@autoreleasepool](https://github.com/AlonsoZhang/Swifter/blob/master/article/autoreleasepool.md)
 
 [值类型和引用类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/value-reference.md)
+
+[String 还是 NSString](https://github.com/AlonsoZhang/Swifter/blob/master/article/string-nsstring.md)
