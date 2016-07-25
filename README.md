@@ -111,3 +111,5 @@
 [可选接口和接口扩展](https://github.com/AlonsoZhang/Swifter/blob/master/article/objc-protocol.md)☆
 
 [内存管理，weak 和 unowned](https://github.com/AlonsoZhang/Swifter/blob/master/article/retain-cycle.md)☆
+
+[@autoreleasepool](https://github.com/AlonsoZhang/Swifter/blob/master/article/autoreleasepool.md)
