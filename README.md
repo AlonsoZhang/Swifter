@@ -127,3 +127,5 @@
 [GCD 和延时调用](https://github.com/AlonsoZhang/Swifter/blob/master/article/gcd-delay-call.md)
 
 [获取对象类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/instance-type.md)
+
+[自省](https://github.com/AlonsoZhang/Swifter/blob/master/article/intropection.md)
