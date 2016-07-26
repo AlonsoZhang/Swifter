@@ -129,3 +129,5 @@
 [获取对象类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/instance-type.md)
 
 [自省](https://github.com/AlonsoZhang/Swifter/blob/master/article/intropection.md)
+
+[KVO](https://github.com/AlonsoZhang/Swifter/blob/master/article/kvo.md)☆
