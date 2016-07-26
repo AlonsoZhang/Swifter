@@ -119,3 +119,5 @@
 [String 还是 NSString](https://github.com/AlonsoZhang/Swifter/blob/master/article/string-nsstring.md)
 
 [UnsafePointer](https://github.com/AlonsoZhang/Swifter/blob/master/article/unsafe.md)
+
+[C 指针内存管理](https://github.com/AlonsoZhang/Swifter/blob/master/article/pointer-memory.md)☆
