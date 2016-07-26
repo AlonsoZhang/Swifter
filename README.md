@@ -123,3 +123,5 @@
 [C 指针内存管理](https://github.com/AlonsoZhang/Swifter/blob/master/article/pointer-memory.md)☆
 
 [COpaquePointer 和 C convention](https://github.com/AlonsoZhang/Swifter/blob/master/article/cpointer.md)☆
+
+[GCD 和延时调用](https://github.com/AlonsoZhang/Swifter/blob/master/article/gcd-delay-call.md)
