@@ -121,3 +121,5 @@
 [UnsafePointer](https://github.com/AlonsoZhang/Swifter/blob/master/article/unsafe.md)
 
 [C 指针内存管理](https://github.com/AlonsoZhang/Swifter/blob/master/article/pointer-memory.md)☆
+
+[COpaquePointer 和 C convention](https://github.com/AlonsoZhang/Swifter/blob/master/article/cpointer.md)☆
