@@ -49,8 +49,27 @@
     //NSLog(@"%@",testStr);
     }
     
+    //self.aaa.stringValue = string1;
+     //NSLog(@"%@",string1);
+    string1 = @"";
+    NSString *filePathc = [[NSBundle mainBundle] pathForResource:@"c" ofType:@"txt" ];
+    NSData *myDatac = [NSData dataWithContentsOfFile:filePathc];
+    NSString *testStrc = [[NSString alloc] initWithData:myDatac encoding:NSUTF8StringEncoding];
+    NSMutableArray *responseArray = [NSMutableArray arrayWithArray:[[testStrc substringToIndex:[testStrc length]] componentsSeparatedByString:@"\n"]];
+    NSString *item;
+    for (item in responseArray) {
+        
+        NSRange range = [item rangeOfString:@" -- "];
+        keystring = [item substringToIndex:(NSMaxRange(range)-4)];
+        NSLog(@"%@",keystring);
+        keystring2 = [item substringFromIndex:NSMaxRange(range)];
+        NSLog(@"%@",keystring2);
+        string1 = [NSString stringWithFormat:@"%@\n[%@](https://github.com/AlonsoZhang/Swifter/blob/master/article/%@.md)",string1,keystring,keystring2];
+        
+        //[命名空间](https://github.com/AlonsoZhang/Swifter/blob/master/article/namespace.md)
+    }
+    //NSLog(@"%@",responseArray);
     self.aaa.stringValue = string1;
-     NSLog(@"%@",string1);
 }
 
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
