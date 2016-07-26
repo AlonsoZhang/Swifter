@@ -20,4 +20,3 @@ print(name)
 debugPrint(name)
 // 输出：
 // Swift.String
-
