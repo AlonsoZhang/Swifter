@@ -135,3 +135,5 @@
 [局部 scope](https://github.com/AlonsoZhang/Swifter/blob/master/article/local-scope.md)
 
 [判等](https://github.com/AlonsoZhang/Swifter/blob/master/article/equal.md)
+
+[哈希](https://github.com/AlonsoZhang/Swifter/blob/master/article/hash.md)☆
