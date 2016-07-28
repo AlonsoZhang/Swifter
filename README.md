@@ -137,3 +137,5 @@
 [判等](https://github.com/AlonsoZhang/Swifter/blob/master/article/equal.md)
 
 [哈希](https://github.com/AlonsoZhang/Swifter/blob/master/article/hash.md)☆
+
+[类簇](https://github.com/AlonsoZhang/Swifter/blob/master/article/class-clusters.md)
