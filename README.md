@@ -145,3 +145,5 @@
 [调用 C 动态库](https://github.com/AlonsoZhang/Swifter/blob/master/article/dylib.md)
 
 [输出格式化](https://github.com/AlonsoZhang/Swifter/blob/master/article/output-format.md) 
+
+[Options](https://github.com/AlonsoZhang/Swifter/blob/master/article/options.md) ☆
