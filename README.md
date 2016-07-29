@@ -138,4 +138,6 @@
 
 [哈希](https://github.com/AlonsoZhang/Swifter/blob/master/article/hash.md)☆
 
-[类簇](https://github.com/AlonsoZhang/Swifter/blob/master/article/class-clusters.md)
+[类簇](https://github.com/AlonsoZhang/Swifter/blob/master/article/class-clusters.md)☆
+
+[Swizzle](https://github.com/AlonsoZhang/Swifter/blob/master/article/swizzle.md)☆
