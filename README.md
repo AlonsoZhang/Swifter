@@ -149,3 +149,5 @@
 [Options](https://github.com/AlonsoZhang/Swifter/blob/master/article/options.md) ☆
 
 [数组 enumerate](https://github.com/AlonsoZhang/Swifter/blob/master/article/enumerate.md) 
+
+[类型编码 @encode](https://github.com/AlonsoZhang/Swifter/blob/master/article/type-encode.md) 
