@@ -141,3 +141,7 @@
 [类簇](https://github.com/AlonsoZhang/Swifter/blob/master/article/class-clusters.md)☆
 
 [Swizzle](https://github.com/AlonsoZhang/Swifter/blob/master/article/swizzle.md)☆
+
+[调用 C 动态库](https://github.com/AlonsoZhang/Swifter/blob/master/article/dylib.md)
+
+[输出格式化](https://github.com/AlonsoZhang/Swifter/blob/master/article/output-format.md) 
