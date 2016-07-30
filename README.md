@@ -163,3 +163,7 @@
 [Lock](https://github.com/AlonsoZhang/Swifter/blob/master/article/lock.md) 
 
 [Toll-Free Bridging 和 Unmanaged](https://github.com/AlonsoZhang/Swifter/blob/master/article/toll-free.md) ☆
+
+###3.Swift 与开发环境及一些实践
+
+[Swift 命令行工具](https://github.com/AlonsoZhang/Swifter/blob/master/article/swift-cli.md) ☆
