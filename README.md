@@ -159,3 +159,5 @@
 [delegate](https://github.com/AlonsoZhang/Swifter/blob/master/article/delegate.md) 
 
 [Associated Object](https://github.com/AlonsoZhang/Swifter/blob/master/article/associated-object.md) ☆
+
+[Lock](https://github.com/AlonsoZhang/Swifter/blob/master/article/lock.md) 
