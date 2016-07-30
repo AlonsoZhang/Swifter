@@ -157,3 +157,5 @@
 [sizeof 和 sizeofValue](https://github.com/AlonsoZhang/Swifter/blob/master/article/sizeof-sizeofvalue.md) 
 
 [delegate](https://github.com/AlonsoZhang/Swifter/blob/master/article/delegate.md) 
+
+[Associated Object](https://github.com/AlonsoZhang/Swifter/blob/master/article/associated-object.md) ☆
