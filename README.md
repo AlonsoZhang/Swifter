@@ -167,3 +167,5 @@
 ###3.Swift 与开发环境及一些实践
 
 [Swift 命令行工具](https://github.com/AlonsoZhang/Swifter/blob/master/article/swift-cli.md) ☆
+
+[随机数生成](https://github.com/AlonsoZhang/Swifter/blob/master/article/random-number.md) 
