@@ -169,3 +169,5 @@
 [Swift 命令行工具](https://github.com/AlonsoZhang/Swifter/blob/master/article/swift-cli.md) ☆
 
 [随机数生成](https://github.com/AlonsoZhang/Swifter/blob/master/article/random-number.md) 
+
+[print 和 debugPrint](https://github.com/AlonsoZhang/Swifter/blob/master/article/print.md) 
