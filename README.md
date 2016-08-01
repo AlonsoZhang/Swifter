@@ -173,3 +173,5 @@
 [print 和 debugPrint](https://github.com/AlonsoZhang/Swifter/blob/master/article/print.md) 
 
 [错误和异常处理](https://github.com/AlonsoZhang/Swifter/blob/master/article/error-handle.md) ☆
+
+[断言](https://github.com/AlonsoZhang/Swifter/blob/master/article/assert.md)
