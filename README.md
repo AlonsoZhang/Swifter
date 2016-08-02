@@ -187,3 +187,5 @@
 [Playground 可视化](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-capture.md)☆
 
 [Playground 与项目协作](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-project.md) 
+
+[数学和数字](https://github.com/AlonsoZhang/Swifter/blob/master/article/math-number.md) 
