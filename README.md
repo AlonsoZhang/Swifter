@@ -184,4 +184,6 @@
 
 [Playground 延时运行](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-delay.md)
 
-[Playground 可视化](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-capture.md)
+[Playground 可视化](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-capture.md)☆
+
+[Playground 与项目协作](https://github.com/AlonsoZhang/Swifter/blob/master/article/playground-project.md) 
