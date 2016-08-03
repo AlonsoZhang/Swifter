@@ -195,3 +195,5 @@
 [NSNull](https://github.com/AlonsoZhang/Swifter/blob/master/article/nsnull.md) 
 
 [文档注释](https://github.com/AlonsoZhang/Swifter/blob/master/article/documentation.md) 
+
+[性能考虑](https://github.com/AlonsoZhang/Swifter/blob/master/article/performance.md) ☆
