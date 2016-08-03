@@ -197,3 +197,5 @@
 [文档注释](https://github.com/AlonsoZhang/Swifter/blob/master/article/documentation.md) 
 
 [性能考虑](https://github.com/AlonsoZhang/Swifter/blob/master/article/performance.md) ☆
+
+[Log 输出](https://github.com/AlonsoZhang/Swifter/blob/master/article/log.md) 
