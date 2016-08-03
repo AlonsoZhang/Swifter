@@ -203,3 +203,5 @@
 [溢出](https://github.com/AlonsoZhang/Swifter/blob/master/article/overflow.md) 
 
 [宏定义 define](https://github.com/AlonsoZhang/Swifter/blob/master/article/define.md) 
+
+[属性访问控制](https://github.com/AlonsoZhang/Swifter/blob/master/article/property-access.md) 
