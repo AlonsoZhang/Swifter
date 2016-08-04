@@ -45,18 +45,18 @@ extension Int {
 //
 // Swift 1.2 之后由于歧义，无法编译
 
-//extension Int {
-//    func times(f: (Int, Int) -> ()) {
-//        print("Tuple")
-//        for i in 1...self {
-//            f(i, i)
-//        }
-//    }
-//}
-// 注释掉开头的 times(f: Int -> ())
-// 3.times { i in
-//   print(i)
-// }
+extension Int {
+    func times2(f: (Int, Int) -> ()) {
+        print("Tuple")
+        for i in 1...self {
+            f(i, i)
+        }
+    }
+}
+ //注释掉开头的 times(f: Int -> ())
+ 3.times2 { i in
+   print(i)
+ }
 // 输出为
 // Tuple
 // (1, 1)

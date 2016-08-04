@@ -209,3 +209,5 @@
 [Swift 中的测试](https://github.com/AlonsoZhang/Swifter/blob/master/article/swift-test.md) 
 
 [Core Data](https://github.com/AlonsoZhang/Swifter/blob/master/article/core-data.md)☆
+
+[闭包歧义](https://github.com/AlonsoZhang/Swifter/blob/master/article/closure-ambiguous.md)
