@@ -213,3 +213,5 @@
 [闭包歧义](https://github.com/AlonsoZhang/Swifter/blob/master/article/closure-ambiguous.md)
 
 [泛型扩展](https://github.com/AlonsoZhang/Swifter/blob/master/article/extension-generic.md)
+
+[兼容性](https://github.com/AlonsoZhang/Swifter/blob/master/article/compatibility.md)
