@@ -9,9 +9,9 @@ enum Suit: String {
 }
 
 enum Rank: Int, CustomStringConvertible {
-    case Ace = 1
-    case Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten
-    case Jack, Queen, King
+    //case Ace = 1
+    case Two = 2, Three, Four, Five, Six, Seven, Eight, Nine, Ten
+    case Ace, Jack, Queen, King
     var description: String {
         switch self {
         case .Ace:

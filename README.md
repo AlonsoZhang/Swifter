@@ -217,3 +217,5 @@
 [兼容性](https://github.com/AlonsoZhang/Swifter/blob/master/article/compatibility.md)
 
 [列举 enum 类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/enum-enumerate.md)
+
+[尾递归](https://github.com/AlonsoZhang/Swifter/blob/master/article/tail-recursion.md)
