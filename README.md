@@ -215,3 +215,5 @@
 [泛型扩展](https://github.com/AlonsoZhang/Swifter/blob/master/article/extension-generic.md)
 
 [兼容性](https://github.com/AlonsoZhang/Swifter/blob/master/article/compatibility.md)
+
+[列举 enum 类型](https://github.com/AlonsoZhang/Swifter/blob/master/article/enum-enumerate.md)
